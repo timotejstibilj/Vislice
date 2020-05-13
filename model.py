@@ -35,7 +35,7 @@ class Igra:
         delni=""
         for crka in self.geslo:
             if crka in self.crke:
-                delni += crka + ""
+                delni += crka + " "
             else:
                 delni += "_ "
         return delni[:-1]
