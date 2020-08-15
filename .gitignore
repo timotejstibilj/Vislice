@@ -1,5 +1,4 @@
-git config --global user.name "Timotej Stibilj" # Uporabite polno ime in priimek
-git config --global timotej.stibilj@gmail.com # Uporabite email s katerim ste registrirani na git# Byte-compiled / optimized / DLL files
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
